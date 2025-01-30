@@ -1,5 +1,5 @@
 /***
- *  {Short description of the lab.}
+ *  This lab makes sure we can use the terminal to run and create files.
  */
 
 #include <iostream>
