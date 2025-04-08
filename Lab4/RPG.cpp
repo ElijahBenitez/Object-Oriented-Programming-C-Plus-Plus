@@ -6,7 +6,7 @@ RPG::RPG() {
     name = "N/A";
     health = 100;
     strength = 15;
-    defense = 10;
+    defense = 50;
     type = "N/A";
 }
 
